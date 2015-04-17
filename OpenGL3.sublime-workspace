@@ -1,0 +1,1285 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"v",
+				"velocity"
+			],
+			[
+				"Glfl",
+				"GLfloat"
+			],
+			[
+				"GLfl",
+				"GLfloat"
+			],
+			[
+				"GLf",
+				"GLfloat"
+			],
+			[
+				"co",
+				"cos"
+			],
+			[
+				"glu",
+				"glutPostRedisplay"
+			],
+			[
+				"y",
+				"yCor"
+			],
+			[
+				"GL",
+				"GLUT_DOWN"
+			],
+			[
+				"pae",
+				"particlePosition"
+			],
+			[
+				"re",
+				"refreshMills"
+			],
+			[
+				"ve",
+				"velocity"
+			],
+			[
+				"an",
+				"angleDiff"
+			],
+			[
+				"di",
+				"dice"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"dic",
+				"animateDice"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"ang",
+				"angle"
+			],
+			[
+				"s",
+				"sangle"
+			],
+			[
+				"d",
+				"dice"
+			],
+			[
+				"xC",
+				"xCor2"
+			],
+			[
+				"yco",
+				"yCor1"
+			],
+			[
+				"yc",
+				"yCor1"
+			],
+			[
+				"yC",
+				"yCor1"
+			],
+			[
+				"yCo",
+				"yCor2"
+			],
+			[
+				"xCo",
+				"xCor1"
+			],
+			[
+				"Gl",
+				"GLfloat"
+			],
+			[
+				"ch",
+				"charecter"
+			],
+			[
+				"angl",
+				"angleHorizantal"
+			],
+			[
+				"DICE",
+				"dice"
+			],
+			[
+				"st",
+				"str"
+			],
+			[
+				"po",
+				"pos"
+			],
+			[
+				"pla",
+				"player"
+			],
+			[
+				"dice",
+				"diceRoll"
+			],
+			[
+				"cam",
+				"camZ"
+			],
+			[
+				"ca",
+				"camZ"
+			],
+			[
+				"va",
+				"valX"
+			],
+			[
+				"valX",
+				"valX"
+			],
+			[
+				"glP",
+				"glPopMatrix"
+			],
+			[
+				"my",
+				"myInit"
+			],
+			[
+				"P",
+				"PI"
+			],
+			[
+				"b",
+				"bool"
+			],
+			[
+				"play",
+				"playerNo"
+			],
+			[
+				"pl",
+				"player"
+			],
+			[
+				"p",
+				"pawn"
+			],
+			[
+				"vi",
+				"viewProspective"
+			],
+			[
+				"fal",
+				"flag"
+			],
+			[
+				"player",
+				"player"
+			],
+			[
+				"gl",
+				"glColor3fv"
+			],
+			[
+				"colo",
+				"colorBlue"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"col",
+				"colorVal"
+			],
+			[
+				"CO",
+				"COLOR_YELLOW"
+			],
+			[
+				"COLO",
+				"COLOR_BLUE"
+			],
+			[
+				"Bo",
+				"BOTTOM_RIGHT"
+			],
+			[
+				"BO",
+				"BOTTOM_LEFT"
+			],
+			[
+				"TOP",
+				"TOP_RIGHT"
+			],
+			[
+				"Top",
+				"TOP_LEFT"
+			],
+			[
+				"tra",
+				"translateV"
+			],
+			[
+				"tr",
+				"translateVectors"
+			],
+			[
+				"diff",
+				"diffuseMap"
+			],
+			[
+				"ou",
+				"ourShader"
+			],
+			[
+				"pr",
+				"projection"
+			],
+			[
+				"ourShaderF",
+				"ourShaderFloor"
+			],
+			[
+				"ma",
+				"mat4"
+			],
+			[
+				"our",
+				"ourShaderFloor"
+			],
+			[
+				"shad",
+				"shader_2"
+			],
+			[
+				"VB",
+				"VBO1"
+			],
+			[
+				"VA",
+				"VAO1"
+			],
+			[
+				"vie",
+				"view"
+			],
+			[
+				"view",
+				"viewZ"
+			],
+			[
+				"scr",
+				"screenHeight"
+			],
+			[
+				"mi",
+				"mixValue"
+			],
+			[
+				"glewTi",
+				"glfwGetTime"
+			],
+			[
+				"sca",
+				"scale"
+			],
+			[
+				"ourSha",
+				"ourShader2"
+			],
+			[
+				"tex",
+				"texture3"
+			],
+			[
+				"vert",
+				"vertexOffset"
+			],
+			[
+				"vec",
+				"vec3"
+			],
+			[
+				"point",
+				"points_vbo"
+			],
+			[
+				"vbo",
+				"points_vbo"
+			],
+			[
+				"ver",
+				"vertices"
+			],
+			[
+				"inc",
+				"incolor"
+			],
+			[
+				"FLA",
+				"FLAG"
+			],
+			[
+				"lgl",
+				"lglfw3dll"
+			],
+			[
+				"L",
+				"LC"
+			],
+			[
+				"LI",
+				"LIB"
+			],
+			[
+				"LIB",
+				"LIBPATH"
+			],
+			[
+				"time",
+				"timeVal"
+			],
+			[
+				"tim",
+				"timeVal"
+			],
+			[
+				"ini",
+				"initialVelocity"
+			],
+			[
+				"in",
+				"inc"
+			],
+			[
+				"wind",
+				"windowPosY"
+			],
+			[
+				"wi",
+				"windowWidth"
+			],
+			[
+				"w",
+				"windowWidth"
+			],
+			[
+				"qu",
+				"quad"
+			],
+			[
+				"fib",
+				"fiboRec"
+			],
+			[
+				"q",
+				"quad"
+			],
+			[
+				"pow",
+				"powY"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"fi",
+				"fibo"
+			],
+			[
+				"ci",
+				"cirecleCount"
+			],
+			[
+				"pa",
+				"parentCenterX"
+			],
+			[
+				"ce",
+				"centerY"
+			],
+			[
+				"cpp",
+				"cppcheck"
+			],
+			[
+				"fil",
+				"file_base_name"
+			],
+			[
+				"FL",
+				"FLAF3"
+			],
+			[
+				"n",
+				"NULL"
+			],
+			[
+				"fl",
+				"false"
+			],
+			[
+				"INA",
+				"INVALID_INPUT"
+			],
+			[
+				"GA",
+				"GAME_OVER"
+			],
+			[
+				"pri",
+				"private"
+			],
+			[
+				"mat",
+				"matChanged"
+			],
+			[
+				"map",
+				"mapValue"
+			],
+			[
+				"r",
+				"addRandom"
+			],
+			[
+				"a",
+				"addRandom"
+			],
+			[
+				"ra",
+				"addRandom"
+			],
+			[
+				"con",
+				"convertMat"
+			],
+			[
+				"get",
+				"getDispaly"
+			],
+			[
+				"i",
+				"index"
+			],
+			[
+				"g",
+				"getDispaly"
+			],
+			[
+				"10CS",
+				"10CS64"
+			],
+			[
+				"rev",
+				"reverse"
+			],
+			[
+				"li",
+				"list"
+			],
+			[
+				"l",
+				"mLinkedList"
+			],
+			[
+				"m",
+				"middle"
+			],
+			[
+				"pi",
+				"previous"
+			],
+			[
+				"N",
+				"next"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/Ludo.cpp",
+			"settings":
+			{
+				"buffer_size": 9073,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/CODING/OpenGL/Learn/Gravity_2/Gravity.cpp",
+			"settings":
+			{
+				"buffer_size": 1742,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "#include <GL/glut.h>\n#include <iostream>\n#include <cmath>\n#define PI 22/7\nusing namespace std;\n\nconst GLfloat gravity[] = {0,-9.8,0};\nGLfloat velocity[14400][3];\nGLfloat particlePosition[14400][3];\n\nint refreshMills = 30;\n\nvoid Timer(int value) {\n    glutPostRedisplay();    \n    glutTimerFunc(refreshMills, Timer, 0); \n\n    for(int j=0; j<14400; j++){\n        for (int i = 0; i < 3; ++i)\n           particlePosition[j][i] = particlePosition[j][i] + velocity[j][i]; // update the postion \n        \n        for (int i = 0; i < 3; ++i)\n           velocity[j][i] = velocity[j][i] +  gravity[i]; // update the velocity vector\n    }\n}\n    \nvoid display() {\n    glClear(GL_COLOR_BUFFER_BIT);   // Clear the color buffer\n\n    glPushMatrix();\n\n    glPointSize(2);\n\n    for(int j=0; j<14400; j++){\n        glBegin(GL_POINTS);\n            glVertex3fv(particlePosition[j]);\n        glEnd();\n    }\n\n    glFlush();\n    glPopMatrix();\n\n}\n\nvoid myMouse(int button, int status, int x, int y)\n{\n    y = 500 - y;\n    if(button == GLUT_LEFT_BUTTON && status == GLUT_DOWN){\n        for (int i = 0; i < 120; i++){\n            for (int j = i; j < 120; j++){\n                particlePosition[i*120+j][0] = x*4-1000;\n                particlePosition[i*120+j][1] = y*4-1000;\n                particlePosition[i*120+j][2] = 0;\n                velocity[i*120+j][0] = 50*sin(i*3*PI/180.0);\n                velocity[i*120+j][1] = 50*cos(i*3*PI/180.0)*cos(j*3*PI/180.0);\n                velocity[i*120+j][2] = 50*cos(i*3*PI/180.0)*sin(j*3*PI/180.0);\n            }\n\n        }\n        GL_XOR\n    }\n\n    glutPostRedisplay();\n\n}\n\n\nvoid init() {\n    glClearColor(0, 0, 0, 0);\n    glMatrixMode(GL_PROJECTION);\n    glLoadIdentity();\n    glOrtho(-1000.0, 1000.0, -1000.0, 1000.0, -2000.0, 2000.0);\n    glColor3f(1,1,1);\n\n    for (int i = 0; i < 200; ++i){\n        particlePosition[i][0] = 0;\n        particlePosition[i][1] = 0;\n        particlePosition[i][2] = 0;\n\n        velocity[i][0] = 0.0f;\n        velocity[i][1] = 0.0f;\n        velocity[i][2] = 0.0f;\n\n    }\n}\n\n\nint main(int argc, char** argv) {\n    glutInit(&argc, argv);\n    glutInitDisplayMode (GLUT_SINGLE | GLUT_RGB);\n    glutInitWindowSize(500, 500);\n    glutInitWindowPosition(40, 40);\n    int d = glutCreateWindow(\"Window\");\n    glutCreateWindow(\"New\");\n    glutDisplayFunc(display);\n    glutTimerFunc(0, Timer, 0); \n    glutMouseFunc(myMouse);\n    init();\n    glutSetWindow(d);\n    glutDisplayFunc(display);\n    // glutTimerFunc(0, Timer, 0); \n    glutMouseFunc(myMouse);\n    init();\n    glutMainLoop();\n}",
+			"file": "/D/CODING/OpenGL/Learn/Gravity/Gravity.cpp",
+			"file_size": 2619,
+			"file_write_time": 130730620616742248,
+			"settings":
+			{
+				"buffer_size": 2532,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/akash/Desktop/ANDROID/timetable.ctt",
+			"settings":
+			{
+				"buffer_size": 3535,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/OpenGL.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/User/OpenGL.sublime-build",
+					""
+				],
+				[
+					"Packages/User/OpenGL.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/OpenGL.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 368.0,
+		"last_filter": "ssma",
+		"selected_items":
+		[
+			[
+				"ssma",
+				"Set Syntax: Makefile"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"bu",
+				"Build: Clean"
+			],
+			[
+				"proje",
+				"Project: Close"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"ssc",
+				"Set Syntax: C++"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"sett",
+				"Preferences: Settings - User"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"gitp",
+				"Git: Push"
+			],
+			[
+				"git",
+				"GitX: Open GitX"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"ctag",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"catg",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"cta",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"tag",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"reso",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"PackageResourceViewer",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pre",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"marksty",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"lintsett",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"lintmar",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"li",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"projec",
+				"Project: Add Folder"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"settinus",
+				"Preferences: Settings - User"
+			],
+			[
+				"ssj",
+				"Set Syntax: JSON"
+			],
+			[
+				"settin",
+				"Preferences: Settings - User"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"ssja",
+				"Set Syntax: Java"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 496.0
+	},
+	"console":
+	{
+		"height": 331.0,
+		"history":
+		[
+			"AutocompleteAll",
+			"AutocompleteAll()",
+			"import uuit",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/CODING/OpenGL/LUDO",
+		"/D/CODING/OpenGL/LUDO/src"
+	],
+	"file_history":
+	[
+		"/C/MinGW/include/GL/gl.h",
+		"/H/download",
+		"/C/Users/akash/Desktop/ANDROID/Lib/cfe-3.5.1.src/NOTES.txt",
+		"/D/CODING/OpenGL/MatrixPush_2/Square_manual.cpp",
+		"/C/MinGW/include/GL/glext.h",
+		"/C/MinGW/include/GL/freeglut_std.h",
+		"/C/MinGW/include/GL/freeglut_ext.h",
+		"/C/MinGW/include/GL/freeglut.h",
+		"/C/MinGW/include/GL/glut.h",
+		"/D/CODING/OpenGL/Learn/Gravity/Makefile",
+		"/D/CODING/OpenGL/Learn/Gravity/Gravity.cpp",
+		"/C/Users/akash/AppData/Local/Temp/Rar$DIa0.420/Readme.txt",
+		"/D/CODING/OpenGL/Learn/Square3D/Gravity.cpp",
+		"/D/CODING/OpenGL/Learn/Square3D/Makefile",
+		"/D/CODING/OpenGL/LUDO/Makefile",
+		"/D/CODING/OpenGL/Learn/Square3D/sqr.cpp",
+		"/D/CODING/OpenGL/LUDO/src/display.h",
+		"/D/CODING/OpenGL/LUDO/test/tester.cpp",
+		"/D/CODING/dice/Makefile",
+		"/D/CODING/dice/dice.cpp",
+		"/D/CODING/OpenGL/LUDO/src/Player.h",
+		"/D/CODING/OpenGL/LUDO/src/Game.cpp",
+		"/D/CODING/OpenGL/LUDO/src/Game.h",
+		"/D/CODING/OpenGL/glfw.cpp",
+		"/D/CODING/OpenGL/COMMAND.txt",
+		"/D/CODING/OpenGL/MatrixPush/Square_manual.cpp",
+		"/C/Users/akash/AndroidStudioProjects/Utopia/.git/config",
+		"/C/Users/akash/AndroidStudioProjects/Utopia/.gitignore",
+		"/D/CODING/Project_Euler/Completed/Euler_P4.py",
+		"/D/CODING/Project_Euler/Completed/Euler_P6.py",
+		"/D/CODING/Project_Euler/Completed/Euler_P16.c",
+		"/D/CODING/OpenGL/Snake/Snake.cpp",
+		"/D/CODING/OpenGL/LUDO/src/Player.cpp",
+		"/D/CODING/OpenGL/LUDO/src/dice.h",
+		"/D/CODING/OpenGL/LUDO/tester.bat",
+		"/C/Users/akash/scheme/hello.scm",
+		"/C/Users/akash/scheme/cmd.txt",
+		"/D/CODING/OpenGL/Square3D/Square3d.cpp",
+		"/D/CODING/OpenGL/ajay/main2.cpp",
+		"/D/CODING/OpenGL/Mandelbrot fractal/picking.cpp",
+		"/C/Users/akash/scheme.ini",
+		"/C/Users/akash/.swtend-colorpicker-recent",
+		"/D/CODING/OpenGL/Square3D/sqr.cpp",
+		"/D/CODING/OpenGL/LUDO/src/mouse.h",
+		"/D/CODING/OpenGL/picking_2/picking.cpp",
+		"/D/CODING/OpenGL/LUDO/test/tester3.cpp",
+		"/D/CODING/OpenGL/ajay/ajay.txt",
+		"/D/CODING/OpenGL/ajay/main.cpp",
+		"/D/CODING/OpenGL/Particle_Blast/Particle_Blast.cpp",
+		"/C/Users/akash/Downloads/LATEST PROJ BACKUP.txt",
+		"/D/CODING/OpenGL/ajay/LATEST PROJ BACKUP.txt",
+		"/C/MinGW/include/stdlib.h",
+		"/D/CODING/Java_Script/closure_stroy.txt",
+		"/D/RubicksCube-master/src/RCube.cpp",
+		"/D/RubicksCube-master/src/main.cpp",
+		"/D/RubicksCube-master/src/transformations.cpp",
+		"/D/CODING/OpenGL/Particle/Particle.cpp",
+		"/D/CODING/OpenGL3/Camera/source/CoordinateSystem.cpp",
+		"/D/CODING/OpenGL/Mandelbrot fractal/Mandelbrot.cpp",
+		"/D/CODING/OpenGL/LUDO/src/Ludo.cpp",
+		"/D/CODING/OpenGL/LUDO/spike/test.cpp",
+		"/D/CODING/OpenGL/LUDO/src/DisplayItems.h",
+		"/D/CODING/OpenGL/LUDO/src/include.h",
+		"/D/CODING/OpenGL/picking/picking.cpp",
+		"/D/CODING/OpenGL/MatrixPush_2/Makefile",
+		"/D/CODING/OpenGL/LUDO/Makefile2",
+		"/D/CODING/OpenGL/LUDO/source/Player.h",
+		"/D/CODING/OpenGL/LUDO/source/Game.h",
+		"/D/CODING/OpenGL/LUDO/source/include.h",
+		"/D/CODING/OpenGL/LUDO/source/Ludo.cpp",
+		"/D/CODING/OpenGL/LUDO/source/mouse.h",
+		"/D/CODING/OpenGL/LUDO/Makefile.GNUmakefile",
+		"/C/Users/akash/Downloads/triangle.cpp",
+		"/C/Users/akash/AppData/Local/Temp/Rar$DIa0.131/Fonts.txt",
+		"/C/Users/akash/AppData/Local/Temp/Rar$DIa0.637/readme.txt",
+		"/D/CODING/OpenGL3/Color_4/source/Camera.h",
+		"/D/CODING/OpenGL3/Color_4/source/Color.cpp",
+		"/D/CODING/OpenGL/LUDO/source/DisplayItems.h",
+		"/D/CODING/OpenGL3/Color_4/source/Shader.h",
+		"/D/CODING/OpenGL/LUDO/source/Color.cpp",
+		"/D/CODING/OpenGL/LUDO/source/Shader.h",
+		"/D/CODING/OpenGL/LUDO/assets/shader.vs",
+		"/D/CODING/OpenGL3/Color_4/assets/shader.vs",
+		"/D/CODING/OpenGL3/Color_4/assets/shader.frag",
+		"/D/CODING/OpenGL3/Color_4/assets/container.jpg",
+		"/D/CODING/OpenGL3/Color_4/assets/container2.png",
+		"/D/CODING/OpenGL3/Color_4/assets/container2_specular.png",
+		"/D/CODING/OpenGL3/Color_4/assets/awesomeface.png",
+		"/D/CODING/OpenGL3/Camera_with_cameraClass/source/CoordinateSystem.cpp",
+		"/D/CODING/Project_Euler/Completed/Euler_P1.py",
+		"/D/CODING/OpenGL3/Color_4/Makefile",
+		"/C/Users/akash/Desktop/ANDROID/timetable.ctt",
+		"/D/CODING/OpenGL/Square3D/Square_manual.cpp",
+		"/D/CODING/OpenGL3/Camera_with_cameraClass/assets/shader.frag",
+		"/D/CODING/OpenGL3/Color_3/source/Color.cpp",
+		"/D/CODING/OpenGL3/Color_4/assets/shaderLamp.frag",
+		"/C/Users/akash/Desktop/opengl-series-master/LICENSE.txt",
+		"/D/CODING/OpenGL3/Color/Makefile",
+		"/D/CODING/OpenGL3/Color/source/CoordinateSystem.cpp",
+		"/D/CODING/OpenGL3/Camera_2/source/Camrea.h",
+		"/D/CODING/OpenGL3/Camera_2/assets/shader.vs",
+		"/D/CODING/OpenGL3/Camera_2/assets/shader.frag",
+		"/D/CODING/OpenGL3/Camera_2/assets/shader_2.vs",
+		"/D/CODING/OpenGL3/Camera_2/assets/shader_2.frag",
+		"/D/CODING/OpenGL3/ProjectTest/OpenGL3.sublime-project",
+		"/D/CODING/OpenGL3/ProjectTest/source/CoordinateSystem.cpp",
+		"/C/Users/akash/AppData/Roaming/Sublime Text 3/Packages/User/OpenGL.sublime-build",
+		"/D/CODING/OpenGL3/ProjectTest/source/Makefile",
+		"/C/Users/akash/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/akash/AppData/Roaming/Sublime Text 3/Packages/User/c++build.sublime-build",
+		"/D/CODING/OpenGL3/ProjectTest/debug/runme.bat",
+		"/D/CODING/OpenGL3/ProjectTest/Makefile",
+		"/D/CODING/OpenGL3/CoordinateSystem_3_2/source/CoordinateSystem.cpp",
+		"/D/CODING/OpenGL3/CoordinateSystem_3_2/Makefile",
+		"/D/CODING/OpenGL3/CoordinateSystem_3_2/OpenGL3.sublime-project",
+		"/D/CODING/OpenGL3/CoordinateSystem_3_2/assets/container.jpg",
+		"/D/CODING/OpenGL3/CoordinateSystem_3_2/CoordinateSystem.cpp",
+		"/D/CODING/OpenGL3/CoordinateSystem_3_2/Shader.h",
+		"/D/CODING/OpenGL3/CoordinateSystem_3_2/other.cpp",
+		"/D/CODING/OpenGL3/CoordinateSystem_3/shader.vs",
+		"/D/CODING/OpenGL3/CoordinateSystem_3/shader.frag",
+		"/D/CODING/OpenGL3/CoordinateSystem_3/CoordinateSystem.cpp",
+		"/D/CODING/OpenGL3/CoordinateSystem_2/CoordinateSystem.cpp",
+		"/D/CODING/OpenGL3/CoordinateSystem_2/shader.vs",
+		"/D/CODING/OpenGL3/CoordinateSystem_2/shader.frag",
+		"/D/CODING/OpenGL3/CoordinateSystem/shader.vs",
+		"/D/CODING/OpenGL3/CoordinateSystem/shader.frag",
+		"/D/CODING/OpenGL3/CoordinateSystem/CoordinateSystem.cpp"
+	],
+	"find":
+	{
+		"height": 57.0
+	},
+	"find_in_files":
+	{
+		"height": 163.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"glutMainLoop",
+			"100",
+			" 0.1",
+			"100",
+			"1000",
+			"50",
+			"*2",
+			"1000",
+			"4",
+			"500",
+			"1000",
+			"500",
+			"129600",
+			"i*PI",
+			"360",
+			"500",
+			"10",
+			"50",
+			"[j]",
+			"[i]",
+			"i",
+			"129600",
+			"360",
+			"[i]",
+			"360",
+			"i",
+			"200",
+			"100",
+			"1.0",
+			"500",
+			"1000",
+			"500",
+			"x1",
+			"y1",
+			"[j]",
+			"[200]",
+			"100",
+			"2.0",
+			"1.0",
+			"5.0",
+			"5",
+			"3.0",
+			"/5.0;",
+			"50",
+			"10.0",
+			"10",
+			"100",
+			"10",
+			"50",
+			"100.0",
+			"position",
+			"i",
+			"[i]",
+			"01",
+			"0.001",
+			"refreshMills",
+			"250",
+			"5",
+			"10",
+			"texture",
+			"7.5",
+			"8.5",
+			"9.0",
+			"glVertex3fv",
+			"0.5",
+			"333",
+			"0",
+			"666",
+			"1",
+			"yCor2",
+			"yCor1",
+			"xCor2",
+			"xCor1",
+			"333",
+			"getPawn",
+			"glTexCoord2f",
+			"glVertex3iv",
+			"100",
+			"10",
+			"glVertex3fv",
+			"{1",
+			",1",
+			"-1",
+			"glVertex3iv",
+			"0,",
+			"500",
+			"0",
+			"100",
+			"(j)",
+			"50",
+			"10",
+			"*0.1",
+			"1.0",
+			"0.1",
+			"i",
+			"100",
+			"-100",
+			"100",
+			"0",
+			"1.0f",
+			"if(w>h)\n	// 	gluOrtho2D(0*t1,100*t1,0,100);\n	// else\n //    ",
+			"0",
+			"-100",
+			"i",
+			"0.2",
+			"0.3",
+			"25",
+			"20",
+			"90f",
+			"004",
+			"006",
+			"glPushMatrix",
+			"008",
+			"01",
+			"7",
+			"05",
+			"01",
+			"1",
+			"02",
+			"itoa",
+			"5",
+			"color[0]",
+			"5",
+			"1.0",
+			"35",
+			"1.0f",
+			"0.05f",
+			"angleHorizantal"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"+"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/Ludo.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9073,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								753,
+								753
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 329.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/CODING/OpenGL/Learn/Gravity_2/Gravity.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1742,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1732,
+								1732
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1178.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/CODING/OpenGL/Learn/Gravity/Gravity.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2532,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1557,
+								1557
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 804.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/akash/Desktop/ANDROID/timetable.ctt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3535,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								554,
+								554
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 57.0
+	},
+	"input":
+	{
+		"height": 57.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 235.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 372.0
+	},
+	"pinned_build_system": "Packages/User/OpenGL.sublime-build",
+	"project": "OpenGL3.sublime-project",
+	"replace":
+	{
+		"height": 110.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ctag",
+				"C:\\Users\\akash\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\CTags.sublime-settings"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\CODING\\OpenGL3\\CoordinateSystem_3\\OpenGL3.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

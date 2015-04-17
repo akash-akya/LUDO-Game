@@ -1,0 +1,68 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BOTTOM_LEFT	.\Player.h	8;"	d
+BOTTOM_RIGHT	.\Player.h	9;"	d
+COLOR_BLUE	.\Player.h	12;"	d
+COLOR_GREEN	.\Player.h	14;"	d
+COLOR_RED	.\Player.h	11;"	d
+COLOR_YELLOW	.\Player.h	13;"	d
+DISPLAY_H	.\display.h	2;"	d
+GAME_H	.\Game.h	4;"	d
+GTOR	.\Ludo.cpp	6;"	d	file:
+Game	.\Game.cpp	/^Game::Game()$/;"	f	class:Game
+Game	.\Game.h	/^class Game$/;"	c
+MOUSE_H	.\mouse.h	2;"	d
+PI	.\Ludo.cpp	7;"	d	file:
+PLAYER_H	.\Player.h	2;"	d
+Player	.\Player.cpp	/^Player::Player(){$/;"	f	class:Player
+Player	.\Player.cpp	/^Player::Player(int startPosition, int color ){$/;"	f	class:Player
+Player	.\Player.h	/^class Player$/;"	c
+SH	.\mouse.h	/^int SH = 500;$/;"	v
+SW	.\mouse.h	/^int SW = 500;$/;"	v
+TOP_LEFT	.\Player.h	6;"	d
+TOP_RIGHT	.\Player.h	7;"	d
+angleHorizantal	.\Ludo.cpp	/^float angleHorizantal = 90.0f, angleVetical = 45.0f;$/;"	v
+angleVetical	.\Ludo.cpp	/^float angleHorizantal = 90.0f, angleVetical = 45.0f;$/;"	v
+boxPosition	.\display.h	/^GLfloat boxPosition[13] = {6,6,2,6,6,2,6,6,2,6,6,1,5};$/;"	v
+camX	.\Ludo.cpp	/^GLfloat camX, camY, camZ ;$/;"	v
+camY	.\Ludo.cpp	/^GLfloat camX, camY, camZ ;$/;"	v
+camZ	.\Ludo.cpp	/^GLfloat camX, camY, camZ ;$/;"	v
+color	.\Player.h	/^    GLfloat color[3];$/;"	m	class:Player
+crossProduct	.\display.h	/^void crossProduct(GLfloat a[], GLfloat b[], GLfloat c[])$/;"	f
+dice	.\Ludo.cpp	/^int dice, diceRoll = 0;$/;"	v
+diceRoll	.\Ludo.cpp	/^int dice, diceRoll = 0;$/;"	v
+digits	.\display.h	/^const char digits[] = {'0', '1', '2', '3', '4', '5', '6', '7', '8', '9' };$/;"	v
+display	.\Ludo.cpp	/^void display (void) $/;"	f
+displayBoard	.\display.h	/^void displayBoard()$/;"	f
+displayItems	.\display.h	/^void displayItems(Game &game)$/;"	f
+dist	.\Ludo.cpp	/^GLfloat dist = 35.0f; $/;"	v
+drawMenuBox	.\display.h	/^void drawMenuBox()$/;"	f
+flag	.\display.h	/^bool flag = true;;$/;"	v
+getColor	.\Player.cpp	/^void Player::getColor(GLfloat colorVal[])$/;"	f	class:Player
+getPawn	.\Ludo.cpp	/^int getPawn(int x, int y, Game game)$/;"	f
+gl_draw	.\mouse.h	/^void gl_draw (Game game) {$/;"	f
+items	.\Player.h	/^    int items[4];$/;"	m	class:Player
+keyboard	.\Ludo.cpp	/^void keyboard (unsigned char key, int x, int y) {$/;"	f
+light_position	.\Ludo.cpp	/^GLfloat light_position[] = { 1.0, 1.0, 1.0, 0.0 };$/;"	v
+main	.\Ludo.cpp	/^int main(int argc, char **argv) {$/;"	f
+mat_shininess	.\Ludo.cpp	/^GLfloat mat_shininess[] = { 10.0 };$/;"	v
+mat_specular	.\Ludo.cpp	/^GLfloat mat_specular[] = { 0.5, 0.5, 0.5, 0.3 };$/;"	v
+move	.\Game.cpp	/^void Game::move(int playerId, int item, int diceVal)$/;"	f	class:Game
+myInit	.\Ludo.cpp	/^void myInit()$/;"	f
+myMouse	.\Ludo.cpp	/^void myMouse(int button, int status, int x, int y)$/;"	f
+numberOfPlayers	.\Game.h	/^    int numberOfPlayers;$/;"	m	class:Game
+player	.\Game.h	/^    Player player[4];$/;"	m	class:Game
+player	.\Ludo.cpp	/^int player;$/;"	v
+processSpecialKeys	.\Ludo.cpp	/^void processSpecialKeys(int key, int xx, int yy) {$/;"	f
+renderStrokeFontString	.\display.h	/^void renderStrokeFontString($/;"	f
+startPosition	.\Player.h	/^    int startPosition;$/;"	m	class:Player
+texture	.\display.h	/^GLuint texture;$/;"	v
+toggle	.\Ludo.cpp	/^bool viewProspective = true, toggle = true;$/;"	v
+translateVectors	.\display.h	/^GLfloat translateVectors[13][3] = { $/;"	v
+vectorMaxValues	.\display.h	/^GLfloat vectorMaxValues[13] = {5,6,2,5,6,2,5,6,2,5,6,1,5};$/;"	v
+viewProspective	.\Ludo.cpp	/^bool viewProspective = true, toggle = true;$/;"	v
+viewProspective	.\mouse.h	/^bool viewProspective = false;$/;"	v

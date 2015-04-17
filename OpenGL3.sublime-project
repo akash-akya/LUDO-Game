@@ -1,0 +1,34 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": ".",
+            "file_exclude_patterns":
+            [
+            	"*.db"	
+        	]
+        }
+    ],
+    "build_systems":
+    [
+        {    
+            "cmd": ["make"],
+            "file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
+            "selector": "source.c++",
+            "working_dir": "${file_path:${folder}}",
+            "file_regex": "^\\s*(.+?)\\(([0-9]+),?([0-9]+)?\\):\\s*(.*) \\[",
+            "shell": true,
+            "variants":
+            [
+                {
+
+                    "name": "Run",
+                    "cmd": ["dir"],
+                    "shell": true
+                }
+            ]
+        }
+    ]
+
+}
