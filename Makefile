@@ -2,24 +2,21 @@
 # TODO: 
 #
  
-
 CC = g++ # This is the main compiler
-# CC = clang --analyze # and comment out the linker last line for sanity
 SRCDIR = src
 BUILDDIR = build
 TARGET = bin/Ludo
 SRCEXT = cpp
 SOURCES = $(wildcard $(SRCDIR)/*.cpp)
 OBJECTS = $(addprefix $(BUILDDIR)/,$(notdir $(SOURCES:.cpp=.o)))
-# OBJECTS = $(patsubst $(SRCDIR)/%,$(BUILDDIR)/%,$(SOURCES:.$(SRCEXT)=.o))
-CFLAGS = -Wall -g
-LIB = -lSOIL -lfreeglut -lglu32 -lopengl32
+CFLAGS =-Wall -g -fno-stack-protector 
+LIB = -lSOIL -lglut -lX11 -lGL -lGLU -lm
 # INC := -I include
 
 $(TARGET): $(OBJECTS)
 	$(CC) $^ -o $(TARGET) $(LIB)
 	
-$(BUILDDIR)/%.o: $(SRCDIR)/%.cpp
+$(BUILDDIR)/%.o: $(SRCDIR)/%.cpp $(SRCDIR)/*.h
 	$(CC) $(CFLAGS) -c -o $@ $<
 
 clean:
