@@ -7,6 +7,13 @@ Game::Game()
             player[i] = Player(i, i);
         }
 }
+Game::Game(int num)
+{
+        numberOfPlayers = num;
+        for (int i = 0; i < numberOfPlayers; ++i){
+            player[i] = Player(i, i);
+        }
+}
 
 void Game::move(int playerId, int item, int diceVal)
 {

@@ -10,6 +10,7 @@ public:
     Player player[4];
     int numberOfPlayers;
     Game();
+    Game(int num);
     void move(int playerId, int item, int diceVal);    
 };
 

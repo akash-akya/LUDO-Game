@@ -4,14 +4,14 @@
 Player::Player(){
 }
 Player::Player(int startPosition, int color ){
-    int colorRed, colorGreen, colorBlue;
+    GLfloat colorRed, colorGreen, colorBlue;
 
     this->startPosition = startPosition;
 
     
     switch(color){
         case COLOR_RED      :   colorRed = 1.0f;
-                                colorGreen = 0.0f ;
+                                colorGreen = 0.0f;
                                 colorBlue = 0.0f;
                                 break;
 
