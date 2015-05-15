@@ -1,3 +1,11 @@
+/*  Player.h
+ *  Contains declaration of Player class
+ *  Player class holds the data related to pirticular player,
+ *  like player color, player pawns and getter funtions.
+ *  Its a subclass of Game
+ */
+
+
 #ifndef PLAYER_H
 #define PLAYER_H
 
@@ -23,9 +31,7 @@ public:
     Player();
     Player(int startPosition, int color);
     void getColor(GLfloat colorVal[]);
-
-
-    
+    int getPosition();
 };
 
 #endif
